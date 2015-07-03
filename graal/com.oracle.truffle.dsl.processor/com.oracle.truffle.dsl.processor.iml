@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false" name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin"/>
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src"/>
+      <excludeFolder url="file://$MODULE_DIR$/.externalToolBuilders"/>
+      <excludeFolder url="file://$MODULE_DIR$/.settings"/>
+      <excludeFolder url="file://$MODULE_DIR$/nbproject"/>
+    </content>
+    <orderEntry jdkName="1.7" jdkType="JavaSDK" type="jdk"/>
+    <orderEntry forTests="false" type="sourceFolder"/>
+    <orderEntry module-name="com.oracle.truffle.api" type="module"/>
+    <orderEntry module-name="com.oracle.truffle.api.dsl" type="module"/>
+  </component>
+</module>

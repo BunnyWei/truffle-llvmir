@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="default" name="com.oracle.graal.asm.sparc">
+	<description>Builds, tests, and runs the project com.oracle.graal.asm.sparc.</description>
+	<import file="nbproject/build-impl.xml"/>
+	<target name="-post-compile">
+		<exec executable="/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python">
+			<env key="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home"/>
+			<arg value="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/mxtool/mx.py"/>
+			<arg value="archive"/>
+			<arg value="@GRAAL"/>
+		</exec>
+	</target>
+</project>

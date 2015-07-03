@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false" name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin"/>
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src"/>
+      <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src_gen"/>
+      <excludeFolder url="file://$MODULE_DIR$/.settings"/>
+      <excludeFolder url="file://$MODULE_DIR$/nbproject"/>
+    </content>
+    <orderEntry jdkName="1.8" jdkType="JavaSDK" type="jdk"/>
+    <orderEntry forTests="false" type="sourceFolder"/>
+    <orderEntry level="project" name="FINDBUGS" type="library"/>
+    <orderEntry level="project" name="HAMCREST" type="library"/>
+    <orderEntry level="project" name="JAVA_ALLOCATION_INSTRUMENTER" type="library"/>
+    <orderEntry level="project" name="JUNIT" type="library"/>
+    <orderEntry module-name="com.oracle.graal.api.code" type="module"/>
+    <orderEntry module-name="com.oracle.graal.api.collections" type="module"/>
+    <orderEntry module-name="com.oracle.graal.api.directives" type="module"/>
+    <orderEntry module-name="com.oracle.graal.api.meta" type="module"/>
+    <orderEntry module-name="com.oracle.graal.api.replacements" type="module"/>
+    <orderEntry module-name="com.oracle.graal.api.runtime" type="module"/>
+    <orderEntry module-name="com.oracle.graal.asm" type="module"/>
+    <orderEntry module-name="com.oracle.graal.bytecode" type="module"/>
+    <orderEntry module-name="com.oracle.graal.compiler" type="module"/>
+    <orderEntry module-name="com.oracle.graal.compiler.common" type="module"/>
+    <orderEntry module-name="com.oracle.graal.compiler.test" type="module"/>
+    <orderEntry module-name="com.oracle.graal.debug" type="module"/>
+    <orderEntry module-name="com.oracle.graal.graph" type="module"/>
+    <orderEntry module-name="com.oracle.graal.java" type="module"/>
+    <orderEntry module-name="com.oracle.graal.lir" type="module"/>
+    <orderEntry module-name="com.oracle.graal.loop" type="module"/>
+    <orderEntry module-name="com.oracle.graal.nodeinfo" type="module"/>
+    <orderEntry module-name="com.oracle.graal.nodeinfo.processor" type="module"/>
+    <orderEntry module-name="com.oracle.graal.nodes" type="module"/>
+    <orderEntry module-name="com.oracle.graal.options" type="module"/>
+    <orderEntry module-name="com.oracle.graal.phases" type="module"/>
+    <orderEntry module-name="com.oracle.graal.phases.common" type="module"/>
+    <orderEntry module-name="com.oracle.graal.printer" type="module"/>
+    <orderEntry module-name="com.oracle.graal.replacements.verifier" type="module"/>
+    <orderEntry module-name="com.oracle.graal.runtime" type="module"/>
+    <orderEntry module-name="com.oracle.graal.service.processor" type="module"/>
+    <orderEntry module-name="com.oracle.graal.sparc" type="module"/>
+    <orderEntry module-name="com.oracle.graal.test" type="module"/>
+    <orderEntry module-name="com.oracle.graal.virtual" type="module"/>
+    <orderEntry module-name="com.oracle.truffle.api" type="module"/>
+    <orderEntry module-name="com.oracle.truffle.api.dsl" type="module"/>
+    <orderEntry module-name="com.oracle.truffle.dsl.processor" type="module"/>
+  </component>
+</module>

@@ -1,0 +1,15 @@
+// $ANTLR : LlvmParser.g -> CalParserTokenTypes.txt$
+CalParser    // output token vocab name
+StringIndifier=4
+Equal=5
+ADD=6
+Number=7
+Function=8
+SUB=9
+MUL=10
+DIV=11
+REM=12
+BlockIndifier=13
+NumberIndifier=14
+String=15
+WS=16

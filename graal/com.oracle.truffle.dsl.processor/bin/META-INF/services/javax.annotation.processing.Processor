@@ -1,0 +1,2 @@
+com.oracle.truffle.dsl.processor.TruffleProcessor
+com.oracle.truffle.dsl.processor.verify.VerifyTruffleProcessor

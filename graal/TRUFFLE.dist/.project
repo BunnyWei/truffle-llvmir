@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TRUFFLE</name>
+	<comment>Updates /Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/build/truffle.jar if a project dependency of TRUFFLE is updated</comment>
+	<projects>
+		<project>com.oracle.truffle.api</project>
+		<project>com.oracle.truffle.api.dsl</project>
+		<project>com.oracle.nfi</project>
+		<project>com.oracle.truffle.api.interop</project>
+		<project>com.oracle.truffle.api.object</project>
+		<project>com.oracle.truffle.object</project>
+		<project>com.oracle.truffle.object.basic</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.ui.externaltools.ExternalToolBuilder</name>
+			<triggers>auto,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>LaunchConfigHandle</key>
+					<value>&lt;project&gt;/.externalToolBuilders/CreateTRUFFLEDist.launch</value>
+				</dictionary>
+				<dictionary>
+					<key>incclean</key>
+					<value>true</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

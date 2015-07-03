@@ -1,0 +1,11 @@
+// $ANTLR : LlvmLexer.g -> LlvmLexerTokenTypes.txt$
+LlvmLexer    // output token vocab name
+Function=4
+ADD=5
+SUB=6
+MUL=7
+DIV=8
+REM=9
+FLOAT=10
+NumberIndifier=11
+StringIndifier=12

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_gen"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/lib/findbugs-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/lib/java-allocation-instrumenter.jar" sourcepath="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/lib/java-allocation-instrumenter.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.code"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.collections"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.directives"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.meta"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.replacements"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.runtime"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.asm"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.bytecode"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.compiler"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.compiler.common"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.debug"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.graph"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.java"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.lir"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.loop"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.nodeinfo"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.nodes"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.options"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.phases"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.phases.common"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.printer"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.runtime"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.test"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.virtual"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

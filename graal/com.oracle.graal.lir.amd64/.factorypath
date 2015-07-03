@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorypath>
+	<factorypathentry enabled="true" id="org.eclipse.jst.ws.annotations.core" kind="PLUGIN" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.options/ap/com.oracle.graal.options.jar" kind="EXTJAR" runInBatchMode="false"/>
+</factorypath>

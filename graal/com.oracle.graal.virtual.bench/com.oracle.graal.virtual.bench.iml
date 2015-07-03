@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false" name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin"/>
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src"/>
+      <excludeFolder url="file://$MODULE_DIR$/.settings"/>
+      <excludeFolder url="file://$MODULE_DIR$/nbproject"/>
+    </content>
+    <orderEntry jdkName="1.8" jdkType="JavaSDK" type="jdk"/>
+    <orderEntry forTests="false" type="sourceFolder"/>
+    <orderEntry level="project" name="JMH" type="library"/>
+  </component>
+</module>

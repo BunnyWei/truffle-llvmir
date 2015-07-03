@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorypath>
+	<factorypathentry enabled="true" id="org.eclipse.jst.ws.annotations.core" kind="PLUGIN" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.compiler/ap/com.oracle.graal.compiler.jar" kind="EXTJAR" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.hotspotvmconfig/ap/com.oracle.graal.hotspotvmconfig.jar" kind="EXTJAR" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.nodeinfo.processor/ap/com.oracle.graal.nodeinfo.processor.jar" kind="EXTJAR" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.options/ap/com.oracle.graal.options.jar" kind="EXTJAR" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.replacements.verifier/ap/com.oracle.graal.replacements.verifier.jar" kind="EXTJAR" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/graal/com.oracle.graal.service.processor/ap/com.oracle.graal.service.processor.jar" kind="EXTJAR" runInBatchMode="false"/>
+</factorypath>

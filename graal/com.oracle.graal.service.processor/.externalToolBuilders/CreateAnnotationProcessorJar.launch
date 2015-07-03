@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramBuilderLaunchConfigurationType">
+<booleanAttribute key="org.eclipse.debug.core.capture_output" value="false"/>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home"/>
+<mapEntry key="EXTRA_JAVA_HOMES" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home"/>
+</mapAttribute>
+<booleanAttribute key="org.eclipse.debug.core.ATTR_REFRESH_RECURSIVE" value="false"/>
+<stringAttribute key="org.eclipse.debug.core.ATTR_REFRESH_SCOPE" value="${working_set:&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;resources&gt;&lt;item path=&quot;com.oracle.graal.service.processor/ap/com.oracle.graal.service.processor.jar&quot; type=&quot;1&quot;/&gt;&lt;/resources&gt;}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_BUILD_SCOPE" value="${working_set:&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;resources&gt;&lt;item path=&quot;com.oracle.graal.api.runtime/src&quot; type=&quot;2&quot; /&gt;&lt;item path=&quot;com.oracle.graal.api.runtime/bin&quot; type=&quot;2&quot; /&gt;&lt;item path=&quot;com.oracle.graal.service.processor/src&quot; type=&quot;2&quot; /&gt;&lt;item path=&quot;com.oracle.graal.service.processor/bin&quot; type=&quot;2&quot; /&gt;&lt;/resources&gt;}"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_OUTPUT_ON" value="false"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm/mx.sh"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_RUN_BUILD_KINDS" value="full,incremental,auto,"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="archive @COM_ORACLE_GRAAL_SERVICE_PROCESSOR"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_TRIGGERS_CONFIGURED" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="/Users/zhulixia/Documents/Truffle_LLVM/truffle-llvm"/>
+</launchConfiguration>
